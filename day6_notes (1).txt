@@ -1,0 +1,151 @@
+to apply transition and animation vue has provided
+Transition component
+
+it wraps around whatever element we want to
+animate
+applies transition classes(css) to the element
+it wraps
+
+<transition>
+	<h1>Hi All!!</h1>
+</transition>
+
+Transition classes
+1) On entering on page
+.enter-from - initial css
+.enter-to - final css
+.enter-active - active css
+
+2) on leaving page
+.leave-from - final css
+.leave-to - initial css
+.leave-active - active css
+
+transition component is used to apply transition on one
+element
+
+whereas transition-group is used to apply transition or
+animation on list or group of elements
+
+Module 11 : Animation and Transition
+
+•		Class-based Animations & Transitions
+https://v3.vuejs.org/guide/transitions-overview.html#class-based-animations-transitions
+
+
+•		Transitions with Style Bindings
+https://v3.vuejs.org/guide/transitions-overview.html#transitions-with-style-bindings
+
+•	Performance
+https://v3.vuejs.org/guide/transitions-overview.html#performance
+
+
+•		Timing & Easing
+https://v3.vuejs.org/guide/transitions-overview.html#timing
+
+
+•	Enter and Leave transitions
+https://v3.vuejs.org/guide/transitions-enterleave.html#transitioning-single-elements-components
+
+
+•	CSS Animations & CSS Transition
+https://v3.vuejs.org/guide/transitions-enterleave.html#css-transitions
+https://v3.vuejs.org/guide/transitions-enterleave.html#css-animations
+
+
+•		CSS Animations with the Transition Component
+https://v3.vuejs.org/guide/transitions-enterleave.html#using-transitions-and-animations-together
+
+
+•		Using Custom transition classes
+https://v3.vuejs.org/guide/transitions-enterleave.html#custom-transition-classes
+
+
+•		Transitioning Between Multiple Elements
+https://v3.vuejs.org/guide/transitions-enterleave.html#transitioning-between-elements
+
+
+•	JavaScript Hooks
+https://v3.vuejs.org/guide/transitions-enterleave.html#javascript-hooks
+
+
+•	List Transition
+https://v3.vuejs.org/guide/transitions-list.html#list-entering-leaving-transitions
+https://v3.vuejs.org/guide/transitions-list.html#list-move-transitions
+https://v3.vuejs.org/guide/transitions-list.html#reusable-transitions
+https://v3.vuejs.org/guide/transitions-list.html#dynamic-transitions
+
+
+•	State Transition
+https://v3.vuejs.org/guide/transitions-state.html#animating-state-with-watchers
+https://v3.vuejs.org/guide/transitions-state.html#dynamic-state-transitions
+https://v3.vuejs.org/guide/transitions-state.html#organizing-transitions-into-components
+
+•	Videos :
+
+https://www.youtube.com/watch?v=RIApQjn9fvw
+https://www.youtube.com/watch?v=ORVr1Jx1mkM
+https://www.youtube.com/watch?v=NzFRZKho23k
+
+
+Module 13 : Vue and Authentication
+•		How Authentication Works in Vue Apps (or any SPA)
+https://www.digitalocean.com/community/tutorials/handling-authentication-in-vue-using-vuex
+
+•	Locking / Protecting Backend Resources
+https://dev.to/adamcowley/how-to-build-an-authentication-into-a-vue3-application-200b
+https://wildermuth.com/2020/10/12/Handling-Token-Authentication-in-Vue-3
+		
+•		Videos :
+https://www.youtube.com/watch?v=FMPHvxqDrVk
+
+
+Module 14 : Optimizing and Deploying Vue App
+
+•		Optimization: Using Asynchronous Components
+https://blog.logrocket.com/how-async-components-can-optimize-performance-in-vue-apps/
+https://vuejsdevelopers.com/2020/07/13/vue-async-components-suspense/
+
+•		Videos :
+
+https://www.youtube.com/watch?v=ZgJufqJW_ec
+
+
+•	Async Components & Routing
+https://v3.vuejs.org/guide/migration/async-components.html#_3-x-syntax
+https://v3.vuejs.org/guide/component-dynamic-async.html#async-components
+https://vueschool.io/articles/vuejs-tutorials/suspense-new-feature-in-vue-3/
+
+•	Videos :
+
+https://www.youtube.com/watch?v=CptngiCFQGI
+https://www.youtube.com/watch?v=LvOYCjpMQ10
+
+
+
+11.1 Create a Vue instance with x co-ordinate as a data in it. When rendered it should generate a view as given below.
+ 
+On mouse move value of x co-ordinate should be updated with x position of screen and background color should change depending on value of x co-ordinate. Check above screen shot and also check the below screen shot.
+  
+
+11.2 Create a Vue instance with data as list of cities in it. When rendered it should generate below view.
+ 
+On every click of shuffle button the list items should get shuffled in random order. Check the screen shot given below after a click on shuffle. 
+ 
+
+11.3  Create a Vue instance with list of numbers as data in it. When rendered generates a view as given below.
+  
+ On click on add should add a new element to it and the view will be as given below.
+ 
+On click on remove should delete an element from the list and the view will be as given below.
+ 
+11.4 Create a Vue instance, when rendered will display push and pop button and 3 circles below it with different radius. On click on push circle grows and on click on pop circle size reduces and the change in size should be visible on UI using animation.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "IPhone",
+      "description": "Apple Smart Phone",
+      "price":40000,
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Note 7",
+      "description": "Samsung Smart Phone",
+      "price":50000,
+      "status": "available"
+    },
+    {
+      "id": 1,
+      "name": "Redme K20 Pro",
+      "description": "Redme Smart Phone",
+      "price":30000,
+      "status": "available"
+    }
+  ]
+}

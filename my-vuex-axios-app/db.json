@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Puja Sharma",
+      "email": "puja@gmail.com"
+    },
+    {
+      "name": "Rimali",
+      "email": "rima@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Rimali",
+      "email": "rima@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "rima",
+      "email": "rima@gmail.com",
+      "id": 6
+    }
+  ]
+}
